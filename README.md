@@ -34,7 +34,7 @@
 - String 1, 2 (Brute force)
 - Stack 1, 2 (DFS)
 - Queue 1, 2(BFS)\
-  > [알고리즘 공부]()
+  > [알고리즘 공부](https://github.com/harinme/algorithm)
 
 ##### SW 역량테스트(IM/A)
 ###### 02.18 (7주차)
